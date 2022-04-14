@@ -1,4 +1,9 @@
 {
+    "2022-04-14T00:00:18": [
+        "HTTPS is now forced, you may use TLSv1 - TLSv1.3. For older browsers you may need to add the <a href=\"https://letsencrypt.org/certs/lets-encrypt-r3.pem\">Let's Encrypt certificate</a> to your browser.",
+        "Nginx now caches static content for a more <em>sped</em> browsing experience.",
+        "<a href=\"https://dkay.xyz\">-dkay</a>"
+    ],
     "2022-04-14T00:28:13": [
         "The site now supports HTTPS (thanks <a href=\"https://dkay.xyz\">dkay</a>).",
         "HTTP is still avaliable for now while I sort out cipher compatibility with older systems, however I strongly recommend against using it for security and privacy reasons.",
